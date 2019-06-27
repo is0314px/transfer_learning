@@ -1,2 +1,0 @@
-egpsr_ros/egpsr:humannavi_ros/human_navigation:ros_robo
--DCATKIN_DEVEL_PREFIX=/home/emlab/catkin_robocup/devel -DCMAKE_INSTALL_PREFIX=/home/emlab/catkin_robocup/install -G Unix Makefiles

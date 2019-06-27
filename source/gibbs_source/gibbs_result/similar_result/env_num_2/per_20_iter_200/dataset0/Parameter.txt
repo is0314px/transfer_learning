@@ -7,7 +7,7 @@ Position_distribution_num: 12
 Data_num: 120
 Dataset: ../gibbs_dataset/similar/dataset_C/1LDK_3
 Sliding_data_parameter: 1
-Name_dim: 9
+Name_dim: 11
 Vision_dim: 1000
 Vision_diric: None
 Stick_breaking_process_max: 70
