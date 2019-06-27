@@ -1,0 +1,4 @@
+gibbs_result/env_num_2/per_0_iter_100
+gibbs_result/env_num_2/per_2_iter_100
+gibbs_result/env_num_2/per_4_iter_100
+gibbs_result/env_num_2/per_8_iter_100

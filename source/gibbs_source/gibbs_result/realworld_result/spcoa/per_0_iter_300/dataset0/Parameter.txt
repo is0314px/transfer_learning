@@ -1,0 +1,16 @@
+max_x_value_of_map: 3.0
+Max_y_value_of_map: 5.0
+Min_x_value_of_map: -3.0
+Min_y_value_of_map: -5.0
+Number_of_place: 70
+Data_num: 140
+Sliding_data_parameter: 1
+NAME_dim: 8
+Dataset: ../gibbs_dataset/similar/dataset_A/1DK_8
+Estimated_placeconcept_num: 57
+Stick_breaking_process_max: 70
+Region_num: 11.0
+name_not: None
+function_not: None
+name_prob: 0
+test_num: 1

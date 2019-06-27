@@ -1,0 +1,8 @@
+prefix=/home/emlab/catkin_robocup/install
+
+Name: egpsr
+Description: Description of egpsr
+Version: 0.1.0
+Cflags: -I/home/emlab/catkin_robocup/install/include
+Libs: -L/home/emlab/catkin_robocup/install/lib 
+Requires: roscpp rospy std_msgs message_runtime

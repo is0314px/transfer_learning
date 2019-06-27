@@ -1,0 +1,15 @@
+max_x_value_of_map: 5.0
+Max_y_value_of_map: 2.5
+Min_x_value_of_map: -5.0
+Min_y_value_of_map: -2.5
+Concept_num: 41
+Position_distribution_num: 7
+Data_num: 90
+Dataset: ../gibbs_dataset/similar/dataset_B/1DK_2
+Sliding_data_parameter: 1
+Name_dim: 8
+Vision_dim: 1000
+Vision_diric: None
+Stick_breaking_process_max: 70
+name_not: None
+test_num: 1

@@ -1,0 +1,11 @@
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_11/exam_per_11
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_12/exam_per_12
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_13/exam_per_13
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_14/exam_per_14
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_15/exam_per_15
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_16/exam_per_16
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_17/exam_per_17
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_18/exam_per_18
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_19/exam_per_19
+/asada_hyper_parameter/per_11-20/asada_room006_hyper_parameter11/word_per_20/exam_per_20
+

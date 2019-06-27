@@ -1,0 +1,8 @@
+prefix=/home/emlab/catkin_robocup/install
+
+Name: ros_robo
+Description: Description of ros_robo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/emlab/catkin_robocup/install/lib 
+Requires: 

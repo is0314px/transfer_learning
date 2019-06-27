@@ -1,0 +1,14 @@
+#Hyper parameters for Gibss sampling which estimate Place concept.
+#Each parameters are based on graphical model.
+1.0 #alfa_f:Parameter of Dirichlet distribution for image features.
+0.1 #alfa_w:Parameter of Dirichlet distribution for description function data.
+0.1 #alfa_n:Parameter of Dirichlet distribution for name data.
+0.03 #kappa_0:Parameter of Gaussian distribution for the robot position.
+15 #nu_0:Parameter of Gaussian distribution for the robot position.
+10 #gamma:Parameter of Dirichlet distribution for general place concept.
+1.0 #gamma_0
+1.0 #beta:Parameter of Dirichlet distribution for local place concept.
+100.0 #image increment
+20.0 #word increment
+100 #local_para
+1000 #iteration

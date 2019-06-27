@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/emlab/catkin_robocup/install/setup.sh

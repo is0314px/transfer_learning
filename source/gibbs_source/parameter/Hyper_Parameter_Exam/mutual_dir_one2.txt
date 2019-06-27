@@ -1,0 +1,6 @@
+/home/emlab/Ishibushi_source/source/Spacial_Concept_Formation/result/asada_hyper_parameter/training_num9/word_per_0/exam_per_0_iter_1000
+/home/emlab/Ishibushi_source/source/Spacial_Concept_Formation/result/asada_hyper_parameter/training_num9/word_per_40/exam_per_40_iter_1000
+/home/emlab/Ishibushi_source/source/Spacial_Concept_Formation/result/asada_hyper_parameter/training_num9/word_per_60/exam_per_60_iter_1000
+/home/emlab/Ishibushi_source/source/Spacial_Concept_Formation/result/asada_hyper_parameter/training_num9/word_per_80/exam_per_80_iter_1000
+/home/emlab/Ishibushi_source/source/Spacial_Concept_Formation/result/asada_hyper_parameter/training_num9/word_per_100/exam_per_100_iter_1000
+

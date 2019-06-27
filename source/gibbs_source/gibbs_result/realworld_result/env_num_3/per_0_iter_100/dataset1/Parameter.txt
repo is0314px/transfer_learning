@@ -1,0 +1,17 @@
+max_x_value_of_map: -20.0
+Max_y_value_of_map: -17.0
+Min_x_value_of_map: -40.0
+Min_y_value_of_map: -38.0
+Number_of_place: 50
+Data_num: 120
+Sliding_data_parameter: 1
+NAME_dim: 10
+Dataset: ../gibbs_dataset/realworld/tsubo_lab
+Estimated_placeconcept_num: 50
+Vision_dim: 1000
+Stick_breaking_process_max: 50
+Vision_diric: None
+PositionDistribution_num: 13.0
+name_not: None
+function_not: None
+test_num: 1

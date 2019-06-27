@@ -1,0 +1,13 @@
+
+alpha_n: 0.01
+gamma_0: 1.0
+kappa_0: 0.03
+nu_0: 5.0
+gamma: 10.0
+beta: 0.4
+initial sigma: 100.0
+sitck break limit: 70
+psi: [matrix([[0.1, 0. , 0. , 0. ]])
+matrix([[0. , 0.1, 0. , 0. ]])
+matrix([[0., 0., 5., 0.]])
+matrix([[0., 0., 0., 5.]])]
